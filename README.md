@@ -1,5 +1,5 @@
 #AFMLW-web-store
-TMN2234 Web Based System Development course.
+This is project for course TMN2234 Web Based System Development course.
 
 The site is accessible online through [this link](https://aflmwstore.000webhostapp.com)
 
@@ -10,3 +10,5 @@ The site is accessible online through [this link](https://aflmwstore.000webhosta
 * **M**ilton
 * **L**au Ngie Hing
 * **W**oo Zhenghan
+
+Any enquiries and feedback please email to me woo_zhenghan@hotmail.com
