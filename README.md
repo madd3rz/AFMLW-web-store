@@ -10,5 +10,3 @@ The site is accessible online through [this link](https://aflmwstore.000webhosta
 * **M**ilton
 * **L**au Ngie Hing
 * **W**oo Zhenghan
-
-Any enquiries and feedback please email to me woo_zhenghan@hotmail.com
