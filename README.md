@@ -8,5 +8,5 @@ The site is accessible online through [this link](https://aflmwstore.000webhosta
 * **A**ima
 * **F**aizal
 * **M**ilton
-* **L**au Ngie Hing
+* **L**au Ngie Hing @realnhl
 * **W**oo Zhenghan
